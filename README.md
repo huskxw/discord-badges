@@ -476,6 +476,6 @@ The information contained in this project is intended for **documentation, resea
 
 <br>
 
-**Made for documentation and research.**
+**Made for documentation and research and based on Discord updates**
 
 </div>
